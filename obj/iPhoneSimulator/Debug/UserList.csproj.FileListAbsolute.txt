@@ -1,0 +1,15 @@
+/Users/tanmay-home/Projects/UserList/UserList/bin/iPhoneSimulator/Debug/UserList.exe
+/Users/tanmay-home/Projects/UserList/UserList/bin/iPhoneSimulator/Debug/UserList.pdb
+/Users/tanmay-home/Projects/UserList/UserList/obj/iPhoneSimulator/Debug/UserList.csprojAssemblyReference.cache
+/Users/tanmay-home/Projects/UserList/UserList/obj/iPhoneSimulator/Debug/UserList.csproj.CoreCompileInputs.cache
+/Users/tanmay-home/Projects/UserList/UserList/obj/iPhoneSimulator/Debug/UserList.exe
+/Users/tanmay-home/Projects/UserList/UserList/obj/iPhoneSimulator/Debug/UserList.pdb
+/Users/tanmay-home/Projects/UserList/UserList/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/tanmay-home/Projects/UserList/UserList/bin/iPhoneSimulator/Debug/Newtonsoft.Json.xml
+/Users/tanmay-home/Projects/UserList/UserList/obj/iPhoneSimulator/Debug/UserList.csproj.CopyComplete
+/Users/tanmay-home/Projects/UserList/UserList/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-12.0/ibtool/_BundleResourceWithLogicalName.items
+/Users/tanmay-home/Projects/UserList/UserList/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-12.0/actool/_PartialAppManifest.items
+/Users/tanmay-home/Projects/UserList/UserList/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-12.0/actool/_BundleResourceWithLogicalName.items
+/Users/tanmay-home/Projects/UserList/UserList/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-12.0/coremlc/_PartialAppManifest.items
+/Users/tanmay-home/Projects/UserList/UserList/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-12.0/coremlc/_BundleResourceWithLogicalName.items
+/Users/tanmay-home/Projects/UserList/UserList/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-12.0/optimized/

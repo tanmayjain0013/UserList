@@ -1,0 +1,14 @@
+/Users/tanmay-home/Projects/UserList/UserList/bin/iPhone/Debug/UserList.exe
+/Users/tanmay-home/Projects/UserList/UserList/bin/iPhone/Debug/UserList.pdb
+/Users/tanmay-home/Projects/UserList/UserList/bin/iPhone/Debug/Newtonsoft.Json.dll
+/Users/tanmay-home/Projects/UserList/UserList/bin/iPhone/Debug/Newtonsoft.Json.xml
+/Users/tanmay-home/Projects/UserList/UserList/obj/iPhone/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/tanmay-home/Projects/UserList/UserList/obj/iPhone/Debug/actool/_PartialAppManifest.items
+/Users/tanmay-home/Projects/UserList/UserList/obj/iPhone/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/tanmay-home/Projects/UserList/UserList/obj/iPhone/Debug/coremlc/_PartialAppManifest.items
+/Users/tanmay-home/Projects/UserList/UserList/obj/iPhone/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/tanmay-home/Projects/UserList/UserList/obj/iPhone/Debug/optimized/
+/Users/tanmay-home/Projects/UserList/UserList/obj/iPhone/Debug/UserList.csproj.CoreCompileInputs.cache
+/Users/tanmay-home/Projects/UserList/UserList/obj/iPhone/Debug/UserList.csproj.CopyComplete
+/Users/tanmay-home/Projects/UserList/UserList/obj/iPhone/Debug/UserList.exe
+/Users/tanmay-home/Projects/UserList/UserList/obj/iPhone/Debug/UserList.pdb
